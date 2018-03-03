@@ -1,2 +1,2 @@
 # workfinity-wsdlfiles
-very ungly workfinity wsdl file bypass
+very ugly workfinity wsdl file bypass
